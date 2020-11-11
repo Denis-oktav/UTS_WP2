@@ -1,0 +1,10 @@
+/*External CSS*/
+body {
+	background-color: lightblue;
+	margin: 0 auto;
+	width: 80%;
+}
+
+.editPadding {
+	margin-right: 16px;
+}

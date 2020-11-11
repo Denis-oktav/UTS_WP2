@@ -1,0 +1,28 @@
+.box{
+    margin: 150px auto;
+    height: 300px;
+    width: 600px;
+
+}
+.atas{
+    height: 50px;
+    width: 600px;
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
+.kiri{
+    height: 250px;
+    width: 200px;
+    float: left;
+    background-color: #ccc;
+}
+.gambar{
+    background-image: url(../images/fotoku.jpg);
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 10px;
+}
